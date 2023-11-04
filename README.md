@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/otabek-tursunov/](https://github.com/otabek-tursunov/)
 
-- 📫 How to reach me **email: tursunovotabekkuva@gmail.com, phone: +998 90 779 14 49, t.me: @Otabeck_Tursunov**
+- 📫 How to reach me **email: otabecktursunov@gmail.com, phone: +998 90 779 14 49, t.me: @Otabeck_Tursunov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
