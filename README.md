@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frontend: HTML, CSS, SASS(curr.), JS, Django in depth, English language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/otabek-tursunov/](https://github.com/otabek-tursunov/)
+- 👨‍💻 All of my projects are available at [https://github.com/otabeck-tursunov/](https://github.com/otabeck-tursunov/)
 
 - 📫 How to reach me **email: otabecktursunov@gmail.com, phone: +998 90 779 14 49, t.me: @Otabeck_Tursunov**
 
