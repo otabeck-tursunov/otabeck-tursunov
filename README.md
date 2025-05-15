@@ -3,12 +3,10 @@
 <h3 align="center">Web developer from Ferghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otabek-tursunov&label=Profile%20views&color=0e75b6&style=flat" alt="otabek-tursunov" /> </p>
-
-- 🌱 I’m currently learning **Frontend: HTML, CSS, Bootstrap, Tailwind, JavaScript, Django in depth, DevOps, English language**
 <!--
 - 👨‍💻 All of my projects are available at [https://github.com/otabeck-tursunov/](https://github.com/otabeck-tursunov/)
 -->
-- 📫 How to reach me **email: otabecktursunov@gmail.com, phone: +998 90 779 14 49, t.me: @Otabeck_Tursunov**
+- 📫 How to reach me **email: otabecktursunov@gmail.com, phone: +998 77 033 30 11, t.me: @otabeck_tursunov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
