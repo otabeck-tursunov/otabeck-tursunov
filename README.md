@@ -9,8 +9,6 @@
 
 ---
 
-## 🧰 Texnologiyalar
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,kotlin,dart,html,css,django,fastapi,flask,nodejs,nestjs,express,react,nextjs,tailwind,bootstrap,sass,flutter,postgres,mysql,sqlite,mongodb,redis,supabase,firebase,docker,nginx,githubactions,aws,vercel,heroku,linux,git,github,vscode,pycharm,webstorm,postman,figma,notion&perline=9" alt="Tech stack" />
 </p>
@@ -22,13 +20,4 @@
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
   <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot" />
   <img src="https://img.shields.io/badge/AI%20%2F%20LLM-412991?style=flat-square&logo=openai&logoColor=white" alt="AI / LLM" />
-</p>
-
----
-
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/otabeck-tursunov?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/otabeck-tursunov?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
 </p>
