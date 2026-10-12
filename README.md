@@ -1,10 +1,7 @@
 <h1 align="center">Otabek Tursunov</h1>
-<h3 align="center">Full-stack Developer & Instructor @ Najot Ta'lim</h3>
+<h3 align="center">Dasturchi · Najot Ta'lim</h3>
 
-<p align="center">
-  Python/Django bilan backend quraman, TypeScript va Flutter bilan mijoz tomonini yarataman.<br/>
-  Farg'ona, O'zbekiston 🇺🇿
-</p>
+<p align="center">Farg'ona, O'zbekiston 🇺🇿</p>
 
 <p align="center">
   <a href="mailto:otabecktursunov@gmail.com"><img src="https://img.shields.io/badge/Email-otabecktursunov@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -12,28 +9,39 @@
 
 ---
 
-## 👨‍💻 Men haqimda
-
-- 🎓 **Najot Ta'lim**da dasturlash bo'yicha dars beraman va o'quvchilarni real loyihalargacha olib boraman
-- 🛠 Django REST API, PostgreSQL, Docker va Vercel'da deploy
-- 📱 Flutter ilovalar va TypeScript frontend
-- 🤖 Telegram bot va AI (LLM) asosidagi avtomatlashtirish vositalari
-
 ## 🧰 Texnologiyalar
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,ts,js,react,nextjs,flutter,dart,postgres,docker,git,github,linux&perline=7" alt="Tech stack" />
-</p>
+### Tillar
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,kotlin,dart,html,css" alt="Languages" />
 
-## 🚀 Loyihalar
+### Backend
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,nestjs,express" alt="Backend" />
 
-| Loyiha | Tavsif | Stack |
-| --- | --- | --- |
-| [Darslar platformasi](https://nt-darslar.vercel.app) | Ustoz uchun interaktiv dars platformasi: Notion uslubidagi muharrir, Telegram orqali kirish va mashqlar | Next.js, TypeScript, Drizzle, Telegram bot |
-| [online-darslar](https://github.com/otabeck-tursunov/online-darslar) | Onlayn darslar tizimi | Next.js, TypeScript, Supabase, Docker |
-| [golden-group](https://github.com/otabeck-tursunov/golden-group) | Buyurtmalar va ishchilarni boshqarish uchun admin panelli mobil ilova | Flutter, Dart |
-| [codial-api](https://github.com/otabeck-tursunov/codial-api) | Frontend va mobil o'quvchilar API o'rganishi uchun o'quv API | Python, Django |
-| [xh-36](https://github.com/otabeck-tursunov/xh-36) | O'zbek imlosidagi `x` / `h` harflarini tekshiruvchi veb-sayt | Python, JavaScript |
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white" alt="DRF" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+<img src="https://img.shields.io/badge/Django%20Channels-092E20?style=flat-square&logo=django&logoColor=white" alt="Channels" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass" alt="Frontend" />
+
+### Mobil
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,react" alt="Mobile" />
+
+### Ma'lumotlar bazasi
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,supabase,firebase" alt="Databases" />
+
+### DevOps va deploy
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,aws,vercel,heroku,linux,git,github" alt="DevOps" />
+
+### Asboblar
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,postman,figma,notion" alt="Tools" />
+
+### Bot va AI
+<img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot" />
+<img src="https://img.shields.io/badge/AI%20%2F%20LLM-412991?style=flat-square&logo=openai&logoColor=white" alt="AI / LLM" />
+
+---
 
 ## 📈 GitHub
 
